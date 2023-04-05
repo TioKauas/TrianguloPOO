@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\bin\Debug\net7.0\TrianguloPOO.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\bin\Debug\net7.0\TrianguloPOO.ConsoleApp.deps.json
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\bin\Debug\net7.0\TrianguloPOO.ConsoleApp.runtimeconfig.json
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\bin\Debug\net7.0\TrianguloPOO.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\bin\Debug\net7.0\TrianguloPOO.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.AssemblyInfo.cs
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\refint\TrianguloPOO.ConsoleApp.dll
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\TrianguloPOO.ConsoleApp.genruntimeconfig.cache
+D:\Projetos C#\Exercicios-Academia\TrianguloPOO.ConsoleApp\obj\Debug\net7.0\ref\TrianguloPOO.ConsoleApp.dll
